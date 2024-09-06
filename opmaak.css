@@ -2,15 +2,6 @@ body {
     background-color: pink; 
 }
 
-li {
-    float: left;
-}
-
-a {
-    display: block;
-    padding: 8px;
-}
-
 ul{
     list-style-type: none;
     margin: 0;
