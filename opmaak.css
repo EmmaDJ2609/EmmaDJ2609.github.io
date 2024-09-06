@@ -7,6 +7,10 @@ li {
 }
 
 a {
-    display: none;
+    display: block;
     padding: 8px;
+}
+
+ul {
+    background-color:plum;
 }
