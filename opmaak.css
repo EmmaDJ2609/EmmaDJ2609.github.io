@@ -23,10 +23,10 @@ li a{
 }
 
 Li a:hover {
-    background-color: red;
+    background-color: darkblue;
 }
 
 .active {
-    background-color: red;
+    background-color: darkblue;
 }
 
