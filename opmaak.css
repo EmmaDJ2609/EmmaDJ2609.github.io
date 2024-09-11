@@ -36,9 +36,9 @@ img{
 
 .Kleurmodellen{
     Display: block;
-    Background-color:rgb(242, 54, 220);
-    Margin: 50px;
-    Padding: 40px;
+    Background-color:rgba(242, 54, 220, 0.409);
+    Margin: left:1px right:50px;
+    Padding: 5px;
     
 
 }
