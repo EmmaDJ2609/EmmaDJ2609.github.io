@@ -30,3 +30,6 @@ Li a:hover {
     background-color: darkblue;
 }
 
+img{
+    float: left;
+}
