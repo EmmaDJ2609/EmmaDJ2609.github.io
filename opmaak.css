@@ -41,7 +41,10 @@ img{
     Padding: 5px;
 }
 
-.spelletje{
-    
+.Spelletje{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
 }
 
