@@ -35,5 +35,10 @@ img{
 }
 
 .Kleurmodellen{
+    Display: block;
+    Background-color:rgb(242, 54, 220);
+    Margin: 50px;
+    Padding: 40px;
+    
 
 }
