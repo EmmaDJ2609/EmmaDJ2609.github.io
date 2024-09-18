@@ -1,8 +1,8 @@
-body {
+body { /*Dit is de basis kleur van mijn website*/
     background-color: pink; 
 }
 
-ul{
+ul{ /*Opmaak menu*/
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -10,11 +10,11 @@ ul{
     background-color: powderblue;
 }
 
-li {
+li { /*Positie menu*/
     float: left;
 }
 
-li a{
+li a{ /*Letters kleur van menu*/
     display: block;
     color: darkcyan;
     text-align: center;
@@ -22,19 +22,15 @@ li a{
     text-decoration: none;
 }
 
-Li a:hover {
+.active { /*Opmaak menu*/
     background-color: darkblue;
 }
 
-.active {
-    background-color: darkblue;
-}
-
-img{
+img{ /*Positie afbeeldingen*/
     float: right;
 }
 
-.Kleurmodellen{
+.Kleurmodellen{ /*Opmaakt tekst kleurmodellen*/
     Display: block;
     Background-color:rgba(242, 54, 220, 0.409);
     Margin: left:1px right:50px;
@@ -42,13 +38,13 @@ img{
     width: 50%;
 }
 
-.Spelletje{
+.Spelletje{ /*Opmaak spelletje binairstelsel*/
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 
-.Binairstelsel1{
+.Binairstelsel1{ /*Opmaak binairstelsel*/
     Display: block;
     Background-color: rgb(136, 243, 253);
     Margin: left:1px right:50px;
@@ -56,7 +52,7 @@ img{
     Width: 50%
 }
 
-.Binairstelsel2{     
+.Binairstelsel2{ /*Opmaakt Binairstelsel*/   
     Display: block;
     Background-color: rgb(63, 245, 193);
     Margin: left:1px right:50;
