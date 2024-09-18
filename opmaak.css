@@ -31,10 +31,11 @@ img{ /*Positie afbeeldingen*/
 }
 
 .Kleurmodellen{ /*Opmaakt tekst kleurmodellen*/
-    Display: block;
-    Background-color:rgba(242, 54, 220, 0.409);
-    Margin: left:1px right:50px;
-    Padding: 5px;
+    display: block;
+    background-color:rgba(242, 54, 220, 0.409);
+    margin-left:1px;
+    margin-right:50px;
+    padding: 5px;
     width: 50%;
 }
 
@@ -45,33 +46,38 @@ img{ /*Positie afbeeldingen*/
 }
 
 .Binairstelsel1{ /*Opmaak binairstelsel*/
-    Display: block;
-    Background-color: rgb(136, 243, 253);
-    Margin: left:1px right:50px;
-    Padding: 5px;
-    Width: 50%
+    display: block;
+    background-color: rgb(136, 243, 253);
+    margin-left:1px;
+    margin-right:50px;
+    padding: 5px;
+    width: 50%;
 }
 
 .Binairstelsel2{ /*Opmaakt Binairstelsel tekst*/   
-    Display: block;
-    Background-color: rgb(63, 245, 193);
-    Margin: left:1px right:50;
-    Padding: 5px;
-    Width: 50%
+    display: block;
+    background-color: rgb(63, 245, 193);
+    margin-left:1px;
+    margin-right:50px;
+    padding: 5px;
+    width: 50%;
 }
 
 .Binairstelsel3{ /*Opmaakt Binairstelsel tekst*/
-    Display: block;
-    Background-color: rgb(136, 243, 253);
-    Margin: left: 1px right:50px;
-    Padding: 5px;
-    Width: 50%
+    display: block;
+    background-color: rgb(136, 243, 253);
+    margin-left: 1px;
+    margin-right:50px;
+    padding: 5px;
+    width: 50%;
 }
 
 .Binairstelsel4{ /*Opmaakt Binairstelsel tekst*/
-    Display: block;
-    Background-color: rgb(136, 243, 253);
-    Margin: left: 1px right:50px;
-    Padding: 5px;
-    Width: 50%
+    display: block;
+    background-color: rgb(136, 243, 253);
+    margin-left: 1px;
+    margin-right:50px;
+    padding: 5px;
+    width: 50%;
 }
+
