@@ -81,3 +81,6 @@ img{ /*Positie afbeeldingen*/
     width: 50%;
 }
 
+.active {
+    background-color: pink;
+}
