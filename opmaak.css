@@ -59,3 +59,11 @@ img{ /*Positie afbeeldingen*/
     Padding: 5px;
     Width: 50%
 }
+
+.Binairstelsel3{ /*Opmaakt Binairstelsel*/
+    Display: block;
+    Background-color: rgb(136, 243, 253);
+    Margin: left: 1px right:50px;
+    Padding: 5px;
+    Width: 50%
+}
