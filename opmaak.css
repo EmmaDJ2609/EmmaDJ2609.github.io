@@ -83,14 +83,14 @@ img{ /*Positie afbeeldingen*/
 
 .Afbeeldingbinairstelsel { /*Afbeelding binairstelsel opmaak*/
     margin-right: 20px;
-    border: rgb(254, 203, 255)
+    border-color: rgb(254, 203, 255)
 }
 
 .Kleurtjes { /*Afbeelding kleurmodellen opmaak*/
-    border:rgb(254, 203, 255)
+    border-color:rgb(254, 203, 255)
 }
 
 .Paardje{ /*Afbeelding Home opmaak*/
-    border: rgb(254, 203, 255)
+    border-color: rgb(254, 203, 255)
 }
 
