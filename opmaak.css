@@ -119,3 +119,12 @@ img{ /*Positie afbeeldingen*/
     border-color: rgb(254, 203, 255)
 }
 
+.Home{
+    display: block;
+    background-color: rgb(212, 242, 245);
+    margin-left:1px;
+    margin-right:50px;
+    padding: 5px;
+    width: 50%;
+    font-size: 17px;
+}
