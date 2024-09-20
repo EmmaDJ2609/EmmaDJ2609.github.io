@@ -108,15 +108,18 @@ img{ /*Positie afbeeldingen*/
 
 .Afbeeldingbinairstelsel { /*Afbeelding binairstelsel opmaak*/
     margin-right: 20px;
-    border-color: rgb(254, 203, 255)
+    border-color: rgb(254, 203, 255);
+    border-style: solid;
 }
 
 .Kleurtjes { /*Afbeelding kleurmodellen opmaak*/
-    border-color:rgb(254, 203, 255)
+    border-color:rgb(254, 203, 255);
+    border-style: solid;
 }
 
 .Paardje{ /*Afbeelding Home opmaak*/
-    border-color: rgb(254, 203, 255)
+    border-color: rgb(254, 203, 255);
+    border-style: solid;
 }
 
 .Home{
