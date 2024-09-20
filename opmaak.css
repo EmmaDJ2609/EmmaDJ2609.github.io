@@ -36,7 +36,7 @@ img{ /*Positie afbeeldingen*/
     font-size: 20px;
 }
 
-.kleurmodellen2 {
+.kleurmodellen2 { /*Opmaak tekst kleurmodellen*/
     display: block;
     background-color: rgba(242, 54, 220, 0.409);
     margin-left: 1px;
