@@ -33,6 +33,17 @@ img{ /*Positie afbeeldingen*/
     margin-right:50px;
     padding: 5px;
     width: 50%;
+    font-size: 20px;
+}
+
+.kleurmodellen2 {
+    display: block;
+    background-color: rgba(242, 54, 220, 0.409);
+    margin-left: 1px;
+    margin-right: 50px;
+    padding: 5px;
+    width: 50%;
+    font-size: 20px;
 }
 
 .Spelletje{ /*Opmaak spelletje binairstelsel*/
@@ -48,6 +59,7 @@ img{ /*Positie afbeeldingen*/
     margin-right:50px;
     padding: 5px;
     width: 50%;
+    font-size: 20px;
 }
 
 .Binairstelsel2{ /*Opmaakt Binairstelsel tekst*/   
@@ -57,6 +69,7 @@ img{ /*Positie afbeeldingen*/
     margin-right:50px;
     padding: 5px;
     width: 50%;
+    font-size: 20px;
 }
 
 .Binairstelsel3{ /*Opmaakt Binairstelsel tekst*/
@@ -66,6 +79,7 @@ img{ /*Positie afbeeldingen*/
     margin-right:50px;
     padding: 5px;
     width: 50%;
+    font-size: 20px;
 }
 
 .Binairstelsel4{ /*Opmaakt Binairstelsel tekst*/
@@ -75,6 +89,7 @@ img{ /*Positie afbeeldingen*/
     margin-right:50px;
     padding: 5px;
     width: 50%;
+    font-size: 20px;
 }
 
 .active { /*Kleur menu*/
