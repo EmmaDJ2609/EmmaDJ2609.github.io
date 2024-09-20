@@ -134,3 +134,13 @@ img{ /*Positie afbeeldingen*/
     width: 50%;
     font-size: 17px;
 }
+
+.Bitmapjes{
+    display: block; /*Opmaakt tekst Bitmap en Vector afbeeldingen*/
+    background-color: rgb(253, 168, 246);
+    margin-left:1px;
+    margin-right:50px;
+    padding: 5px;
+    width: 50%;
+    font-size: 17px;
+}
