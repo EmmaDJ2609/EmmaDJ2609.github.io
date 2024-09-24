@@ -28,7 +28,7 @@ img{ /*Positie afbeeldingen*/
 
 .Kleurmodellen{ /*Opmaakt tekst kleurmodellen*/
     display: block;
-    background-color:rgba(242, 54, 220, 0.409);
+    background-color:rgba(255, 196, 248);
     margin-left:1px;
     margin-right:50px;
     padding: 5px;
@@ -38,7 +38,7 @@ img{ /*Positie afbeeldingen*/
 
 .kleurmodellen2 { /*Opmaak tekst kleurmodellen*/
     display: block;
-    background-color: rgba(242, 54, 220, 0.409);
+    background-color: rgb(255, 196, 248);
     margin-left: 1px;
     margin-right: 50px;
     padding: 5px;
@@ -54,7 +54,7 @@ img{ /*Positie afbeeldingen*/
 
 .Binairstelsel1{ /*Opmaak binairstelsel*/
     display: block;
-    background-color: rgb(136, 243, 253);
+    background-color: rgb(190, 255, 237);
     margin-left:1px;
     margin-right:50px;
     padding: 5px;
@@ -64,7 +64,7 @@ img{ /*Positie afbeeldingen*/
 
 .Binairstelsel2{ /*Opmaakt Binairstelsel tekst*/   
     display: block;
-    background-color: rgb(63, 245, 193);
+    background-color: rgb(190, 255, 237);
     margin-left:1px;
     margin-right:50px;
     padding: 5px;
@@ -74,7 +74,7 @@ img{ /*Positie afbeeldingen*/
 
 .Binairstelsel3{ /*Opmaakt Binairstelsel tekst*/
     display: block;
-    background-color: rgb(136, 243, 253);
+    background-color: rgb(190, 255, 237);
     margin-left: 1px;
     margin-right:50px;
     padding: 5px;
@@ -84,7 +84,7 @@ img{ /*Positie afbeeldingen*/
 
 .Binairstelsel4{ /*Opmaakt Binairstelsel tekst*/
     display: block;
-    background-color: rgb(136, 243, 253);
+    background-color: rgb(190, 255, 237);
     margin-left: 1px;
     margin-right:50px;
     padding: 5px;
@@ -94,7 +94,7 @@ img{ /*Positie afbeeldingen*/
 
 .Binairstelsel5{ /*Opmaakt Binairstelsel tekst*/   
     display: block;
-    background-color: rgb(63, 245, 193);
+    background-color: rgb(190, 255, 237);
     margin-left:1px;
     margin-right:50px;
     padding: 5px;
@@ -125,8 +125,8 @@ img{ /*Positie afbeeldingen*/
     border-width: 5px;
 }
 
-.Home{
-    display: block; /*Opmaakt tekst home pagina*/
+.Home{ /*Opmaakt tekst home pagina*/
+    display: block; 
     background-color: rgb(212, 242, 245);
     margin-left:1px;
     margin-right:50px;
@@ -135,9 +135,9 @@ img{ /*Positie afbeeldingen*/
     font-size: 17px;
 }
 
-.Bitmapjes{
-    display: block; /*Opmaakt tekst Bitmap en Vector afbeeldingen*/
-    background-color: rgb(253, 168, 246);
+.Bitmapjes{ /*Opmaakt tekst Bitmap en Vector afbeeldingen*/
+    display: block; 
+    background-color: rgb(216, 174, 249);
     margin-left:1px;
     margin-right:50px;
     padding: 5px;
