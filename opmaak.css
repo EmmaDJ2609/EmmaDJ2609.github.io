@@ -161,7 +161,7 @@ img{ /*Positie afbeeldingen*/
 
 .Bitmapjes{ /*Opmaakt tekst Bitmap en Vector afbeeldingen*/
     display: block; 
-    background-color: rgb(216, 174, 249);
+    background-color: rgb(231, 217, 243);
     margin-left:1px;
     margin-right:50px;
     padding: 5px;
@@ -172,7 +172,7 @@ img{ /*Positie afbeeldingen*/
 
 .Bitmapjes2{ /*Opmaakt tekst Bitmap en Vector afbeeldingen*/
     display: block; 
-    background-color: rgb(216, 174, 249);
+    background-color: rgb(231, 217, 243);
     margin-left:1px;
     margin-right:50px;
     padding: 5px;
@@ -183,7 +183,7 @@ img{ /*Positie afbeeldingen*/
 
 .Bitmapjes3{ /*Opmaakt Binairstelsel tekst*/
     display: block; 
-    background-color: rgb(216, 174, 249);
+    background-color: rgb(231, 217, 243);
     margin-left:1px;
     margin-right:50px;
     padding: 5px;
@@ -193,13 +193,12 @@ img{ /*Positie afbeeldingen*/
 }
 
 .Vectorafbeelding{ /*Opmaak afbeelding vectorafbeeldingen*/
-    border-color: rgb(254, 203, 255);
+    border-color: rgb(231, 217, 243);
     border-style: solid;
     border-width: 5px;
     width: 240px;
     height: 330px;
     margin-right: 50px;
-    font-family: cursive;
 }
 
 .Compressie{ /*Opmaakt tekst compressie*/
