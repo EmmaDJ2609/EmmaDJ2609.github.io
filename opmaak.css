@@ -14,6 +14,11 @@ li { /*Positie menu*/
     float: left;
 }
 
+.active { /*Kleur menu*/
+    background-color: pink;
+}
+
+
 li a{ /*Letters kleur van menu*/
     display: block;
     color: darkcyan;
@@ -21,6 +26,18 @@ li a{ /*Letters kleur van menu*/
     padding: 14px 16px;
     text-decoration: none;
     font-family: cursive;
+}
+
+.Kopjes{ /*Opmaakt Kopjes*/
+    font-size:25px;
+    font-family: cursive;
+    color: darkcyan;
+    margin-bottom:2px;
+    background-color: pink;
+    display: block;
+    margin: 2px;
+    padding: 5px;
+    width: 10%;
 }
 
 img{ /*Positie afbeeldingen*/
@@ -47,6 +64,12 @@ img{ /*Positie afbeeldingen*/
     width: 50%;
     font-size: 17px;
     font-family: cursive;
+}
+
+.Kleurtjes { /*Afbeelding kleurmodellen opmaak*/
+    border-color:rgb(254, 203, 255);
+    border-style: solid;
+    border-width: 5px;
 }
 
 .Spelletje{ /*Opmaak spelletje binairstelsel*/
@@ -110,10 +133,6 @@ img{ /*Positie afbeeldingen*/
     font-family: cursive;
 }
 
-.active { /*Kleur menu*/
-    background-color: pink;
-}
-
 .Afbeeldingbinairstelsel { /*Afbeelding binairstelsel opmaak*/
     margin-right: 20px;
     border-color: rgb(254, 203, 255);
@@ -121,11 +140,6 @@ img{ /*Positie afbeeldingen*/
     border-width: 5px;
 }
 
-.Kleurtjes { /*Afbeelding kleurmodellen opmaak*/
-    border-color:rgb(254, 203, 255);
-    border-style: solid;
-    border-width: 5px;
-}
 
 .Paardje{ /*Afbeelding Home opmaak*/
     border-color: rgb(254, 203, 255);
@@ -166,16 +180,6 @@ img{ /*Positie afbeeldingen*/
     font-family: cursive;
 }
 
-.Vectorafbeelding{ /*Opmaak afbeelding vectorafbeeldingen*/
-    border-color: rgb(254, 203, 255);
-    border-style: solid;
-    border-width: 5px;
-    width: 240px;
-    height: 330px;
-    margin-right: 50px;
-    font-family: cursive;
-}
-
 .Bitmapjes3{ /*Opmaakt Binairstelsel tekst*/
     display: block; 
     background-color: rgb(216, 174, 249);
@@ -187,14 +191,23 @@ img{ /*Positie afbeeldingen*/
     font-family: cursive;
 }
 
-.Kopjes{
-    font-size:25px;
+.Vectorafbeelding{ /*Opmaak afbeelding vectorafbeeldingen*/
+    border-color: rgb(254, 203, 255);
+    border-style: solid;
+    border-width: 5px;
+    width: 240px;
+    height: 330px;
+    margin-right: 50px;
     font-family: cursive;
-    color: darkcyan;
-    margin-bottom:2px;
-    background-color: pink;
-    display: block;
-    margin: 2px;
-    padding: 5px;
-    width: 10%;
+}
+
+.Compressie{ /*Opmaakt tekst compressie*/
+display: block; 
+background-color: rgb(216, 174, 249);
+margin-left:1px;
+margin-right:50px;
+padding: 5px;
+width: 50%;
+font-size: 17px;
+font-family: cursive;
 }
