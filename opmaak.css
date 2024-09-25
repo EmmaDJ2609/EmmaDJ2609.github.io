@@ -188,4 +188,10 @@ img{ /*Positie afbeeldingen*/
 .Link{ /*Opmaak linkje kleurmodellen*/
     background-color: pink;
     color: darkcyan;
+    margin-left:1px;
+    margin-right:50px;
+    padding: 5px;
+    width: 50%;
+    font-size: 17px;
+    display: block;
 }
