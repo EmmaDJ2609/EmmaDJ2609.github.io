@@ -230,6 +230,7 @@ li a{ /*Letters kleur van menu*/
     width: 50%;
     font-size: 17px;
     font-family: cursive;
+    border-radius: 25px;
 }
 
 .Plaatjecompressie{
