@@ -1,5 +1,5 @@
 body { /*Dit is de basis achtergrondkleur van mijn website*/
-    background-image: url("Achtergrond.jpg")
+    background-image: url("Achtergrond.jpg");
 }
 
 ul{ /*Opmaak menu*/
@@ -177,7 +177,7 @@ img{ /*Positie afbeeldingen*/
     font-size:25px;
     color: darkcyan;
     margin-bottom:2px;
-    background-color: white;
+    background-color: pink;
     display: block;
     padding: 5px;
 }
