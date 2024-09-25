@@ -259,5 +259,14 @@ li a{ /*Letters kleur van menu*/
 }
 
 .Footer{
-    
+    font-size:25px;
+    font-family: cursive;
+    color: darkcyan;
+    margin-bottom:2px;
+    background-color: pink;
+    display: block;
+    margin-right: 100%;
+    margin-left: 100%;
+    padding: 5px;
+    width: 20%;
 }
