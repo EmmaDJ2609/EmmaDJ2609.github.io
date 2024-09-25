@@ -198,7 +198,7 @@ img{ /*Positie afbeeldingen*/
     font-size: 20px;
 }
 
-.Compressie{
+.Compressie{ /*Opmaak tekst compressie*/
     display: block; 
     background-color: rgb(247, 229, 189);
     margin-left:1px;
