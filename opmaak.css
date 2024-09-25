@@ -159,4 +159,6 @@ img{ /*Positie afbeeldingen*/
     border-color: rgb(254, 203, 255);
     border-style: solid;
     border-width: 5px;
+    width: 80px;
+    height: 110px;
 }
