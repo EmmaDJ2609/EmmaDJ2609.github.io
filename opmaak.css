@@ -172,3 +172,12 @@ img{ /*Positie afbeeldingen*/
     width: 50%;
     font-size: 17px;
 }
+
+.Kopjes{
+    font-size:25px;
+    color: white;
+    margin-bottom:2px;
+    background-color: cyan;
+    display: block;
+    margin:5px;
+}
