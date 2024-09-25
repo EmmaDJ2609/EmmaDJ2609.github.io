@@ -40,10 +40,6 @@ li a{ /*Letters kleur van menu*/
     width: 20%;
 }
 
-img{ /*Positie afbeeldingen*/
-    float: right;
-}
-
 .Kleurmodellen{ /*Opmaakt tekst kleurmodellen*/
     display: block;
     background-color:rgba(255, 196, 248);
