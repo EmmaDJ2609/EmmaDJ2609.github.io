@@ -175,9 +175,9 @@ img{ /*Positie afbeeldingen*/
 
 .Kopjes{
     font-size:25px;
-    color: white;
+    color: darkcyan;
     margin-bottom:2px;
-    background-color: cyan;
+    background-color: white;
     display: block;
     margin:5px;
 }
