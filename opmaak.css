@@ -123,7 +123,6 @@ img{ /*Positie afbeeldingen*/
     border-color: rgb(254, 203, 255);
     border-style: solid;
     border-width: 5px;
-    margin-right: 20px;
 }
 
 .Home{ /*Opmaakt tekst home pagina*/
@@ -165,7 +164,7 @@ img{ /*Positie afbeeldingen*/
     margin-right: 50px;
 }
 
-.Bitmapjes3{ /*Opmaak Binairstelsel tekst*/
+.Bitmapjes3{ /*Opmaakt Binairstelsel tekst*/
     display: block; 
     background-color: rgb(216, 174, 249);
     margin-left:1px;
@@ -175,7 +174,7 @@ img{ /*Positie afbeeldingen*/
     font-size: 17px;
 }
 
-.Kopjes{ /*Opmaak van tekst boven alinea */
+.Kopjes{
     font-size:25px;
     color: darkcyan;
     margin-bottom:2px;
@@ -183,27 +182,5 @@ img{ /*Positie afbeeldingen*/
     display: block;
     margin: 2px;
     padding: 5px;
-    width: 15%;
-}
-
-.Link{ /*Opmaak linkje kleurmodellen*/
-    background-color: pink;
-    color: darkcyan;
-    margin-left:1px;
-    margin-right:50px;
-    padding: 5px;
-    width: 50%;
-    font-size: 17px;
-    display: block;
-    font-size: 20px;
-}
-
-.Compressie{ /*Opmaak tekst compressie*/
-    display: block; 
-    background-color: rgb(247, 229, 189);
-    margin-left:1px;
-    margin-right:50px;
-    padding: 5px;
-    width: 50%;
-    font-size: 17px;
+    width: 30%;
 }
