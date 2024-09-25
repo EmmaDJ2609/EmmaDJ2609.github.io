@@ -20,6 +20,7 @@ li a{ /*Letters kleur van menu*/
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    font-family: cursive;
 }
 
 img{ /*Positie afbeeldingen*/
@@ -34,6 +35,7 @@ img{ /*Positie afbeeldingen*/
     padding: 5px;
     width: 50%;
     font-size: 17px;
+    font-family: cursive;
 }
 
 .kleurmodellen2 { /*Opmaak tekst kleurmodellen*/
@@ -44,6 +46,7 @@ img{ /*Positie afbeeldingen*/
     padding: 5px;
     width: 50%;
     font-size: 17px;
+    font-family: cursive;
 }
 
 .Spelletje{ /*Opmaak spelletje binairstelsel*/
@@ -60,6 +63,7 @@ img{ /*Positie afbeeldingen*/
     padding: 5px;
     width: 50%;
     font-size: 17px;
+    font-family: cursive;
 }
 
 .Binairstelsel2{ /*Opmaakt Binairstelsel tekst*/   
@@ -70,6 +74,7 @@ img{ /*Positie afbeeldingen*/
     padding: 5px;
     width: 50%;
     font-size: 17px;
+    font-family: cursive;
 }
 
 .Binairstelsel3{ /*Opmaakt Binairstelsel tekst*/
@@ -80,6 +85,7 @@ img{ /*Positie afbeeldingen*/
     padding: 5px;
     width: 50%;
     font-size: 17px;
+    font-family: cursive;
 }
 
 .Binairstelsel4{ /*Opmaakt Binairstelsel tekst*/
@@ -90,6 +96,7 @@ img{ /*Positie afbeeldingen*/
     padding: 5px;
     width: 50%;
     font-size: 17px;
+    font-family: cursive;
 }
 
 .Binairstelsel5{ /*Opmaakt Binairstelsel tekst*/   
@@ -100,6 +107,7 @@ img{ /*Positie afbeeldingen*/
     padding: 5px;
     width: 50%;
     font-size: 17px;
+    font-family: cursive;
 }
 
 .active { /*Kleur menu*/
@@ -133,6 +141,7 @@ img{ /*Positie afbeeldingen*/
     padding: 5px;
     width: 50%;
     font-size: 17px;
+    font-family: cursive;
 }
 
 .Bitmapjes{ /*Opmaakt tekst Bitmap en Vector afbeeldingen*/
@@ -143,6 +152,7 @@ img{ /*Positie afbeeldingen*/
     padding: 5px;
     width: 50%;
     font-size: 17px;
+    font-family: cursive;
 }
 
 .Bitmapjes2{ /*Opmaakt tekst Bitmap en Vector afbeeldingen*/
@@ -153,6 +163,7 @@ img{ /*Positie afbeeldingen*/
     padding: 5px;
     width: 50%;
     font-size: 17px;
+    font-family: cursive;
 }
 
 .Vectorafbeelding{ /*Opmaak afbeelding vectorafbeeldingen*/
@@ -162,6 +173,7 @@ img{ /*Positie afbeeldingen*/
     width: 240px;
     height: 330px;
     margin-right: 50px;
+    font-family: cursive;
 }
 
 .Bitmapjes3{ /*Opmaakt Binairstelsel tekst*/
@@ -172,10 +184,12 @@ img{ /*Positie afbeeldingen*/
     padding: 5px;
     width: 50%;
     font-size: 17px;
+    font-family: cursive;
 }
 
 .Kopjes{
     font-size:25px;
+    font-family: cursive;
     color: darkcyan;
     margin-bottom:2px;
     background-color: pink;
