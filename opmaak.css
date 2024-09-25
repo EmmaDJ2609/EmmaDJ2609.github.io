@@ -87,6 +87,7 @@ li a{ /*Letters kleur van menu*/
     width: 50%;
     font-size: 17px;
     font-family: cursive;
+    border-radius: 35px;
 }
 
 .Binairstelsel2{ /*Opmaakt Binairstelsel tekst*/   
@@ -98,6 +99,7 @@ li a{ /*Letters kleur van menu*/
     width: 50%;
     font-size: 17px;
     font-family: cursive;
+    border-radius: 35px;
 }
 
 .Binairstelsel3{ /*Opmaakt Binairstelsel tekst*/
@@ -109,6 +111,7 @@ li a{ /*Letters kleur van menu*/
     width: 50%;
     font-size: 17px;
     font-family: cursive;
+    border-radius: 35px;
 }
 
 .Binairstelsel4{ /*Opmaakt Binairstelsel tekst*/
@@ -120,6 +123,7 @@ li a{ /*Letters kleur van menu*/
     width: 50%;
     font-size: 17px;
     font-family: cursive;
+    border-radius: 35px;
 }
 
 .Binairstelsel5{ /*Opmaakt Binairstelsel tekst*/   
@@ -131,6 +135,7 @@ li a{ /*Letters kleur van menu*/
     width: 50%;
     font-size: 17px;
     font-family: cursive;
+    border-radius: 35px;
 }
 
 .Afbeeldingbinairstelsel { /*Afbeelding binairstelsel opmaak*/
@@ -159,6 +164,7 @@ li a{ /*Letters kleur van menu*/
     width: 50%;
     font-size: 17px;
     font-family: cursive;
+    border-radius: 35px;
 }
 
 .Bitmapjes{ /*Opmaakt tekst Bitmap en Vector afbeeldingen*/
@@ -170,6 +176,7 @@ li a{ /*Letters kleur van menu*/
     width: 50%;
     font-size: 17px;
     font-family: cursive;
+    border-radius: 35px;
 }
 
 .Bitmapjes2{ /*Opmaakt tekst Bitmap en Vector afbeeldingen*/
@@ -181,6 +188,7 @@ li a{ /*Letters kleur van menu*/
     width: 50%;
     font-size: 17px;
     font-family: cursive;
+    border-radius: 35px;
 }
 
 .Bitmapjes3{ /*Opmaakt Binairstelsel tekst*/
@@ -192,6 +200,7 @@ li a{ /*Letters kleur van menu*/
     width: 50%;
     font-size: 17px;
     font-family: cursive;
+    border-radius: 35px;
 }
 
 .Vectorafbeelding{ /*Opmaak afbeelding vectorafbeeldingen*/
@@ -212,6 +221,7 @@ li a{ /*Letters kleur van menu*/
     width: 50%;
     font-size: 17px;
     font-family: cursive;
+    border-radius: 35px;
 }
 
 .Compressie2{
@@ -223,6 +233,7 @@ li a{ /*Letters kleur van menu*/
     width: 50%;
     font-size: 17px;
     font-family: cursive;
+    border-radius: 35px;
 }
 
 .Compressie3{
@@ -234,7 +245,7 @@ li a{ /*Letters kleur van menu*/
     width: 50%;
     font-size: 17px;
     font-family: cursive;
-    border-radius: 20px;
+    border-radius: 35px;
 }
 
 .Compressie4 {
