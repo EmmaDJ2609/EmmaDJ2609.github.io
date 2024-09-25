@@ -155,7 +155,7 @@ img{ /*Positie afbeeldingen*/
     font-size: 17px;
 }
 
-.Vectorafbeelding{
+.Vectorafbeelding{ /*Opmaak afbeelding vectorafbeeldingen*/
     border-color: rgb(254, 203, 255);
     border-style: solid;
     border-width: 5px;
@@ -163,7 +163,7 @@ img{ /*Positie afbeeldingen*/
     height: 660px;
 }
 
-.Bitmapjes3{
+.Bitmapjes3{ /*Opmaakt Binairstelsel tekst*/
     display: block; 
     background-color: rgb(216, 174, 249);
     margin-left:1px;
