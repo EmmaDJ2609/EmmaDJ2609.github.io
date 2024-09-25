@@ -162,3 +162,13 @@ img{ /*Positie afbeeldingen*/
     width: 480px;
     height: 660px;
 }
+
+.Bitmapjes3{
+    display: block; 
+    background-color: rgb(216, 174, 249);
+    margin-left:1px;
+    margin-right:50px;
+    padding: 5px;
+    width: 50%;
+    font-size: 17px;
+}
