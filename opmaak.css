@@ -164,7 +164,7 @@ img{ /*Positie afbeeldingen*/
     margin-right: 50px;
 }
 
-.Bitmapjes3{ /*Opmaakt Binairstelsel tekst*/
+.Bitmapjes3{ /*Opmaak Binairstelsel tekst*/
     display: block; 
     background-color: rgb(216, 174, 249);
     margin-left:1px;
@@ -174,7 +174,7 @@ img{ /*Positie afbeeldingen*/
     font-size: 17px;
 }
 
-.Kopjes{
+.Kopjes{ /*Opmaak van tekst boven alinea */
     font-size:25px;
     color: darkcyan;
     margin-bottom:2px;
@@ -185,7 +185,7 @@ img{ /*Positie afbeeldingen*/
     width: 20%;
 }
 
-.Link{
+.Link{ /*Opmaak linkje kleurmodellen*/
     background-color: pink;
     color: darkcyan;
 }
