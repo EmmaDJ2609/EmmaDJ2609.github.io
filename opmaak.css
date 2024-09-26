@@ -224,7 +224,7 @@ li a{ /*Letters kleur van menu*/
     width: 50%;
     font-size: 17px;
     font-family: cursive;
-    border-radius: 40px;
+    border-radius: 50px;
 }
 
 .Compressie2{ /*Opmaak tekst compressie*/
@@ -280,7 +280,7 @@ li a{ /*Letters kleur van menu*/
     padding:10px;
     bottom: 0;
     position: fixed;
-    
+
  }
 
  .clearfix{ /*Positie van footer*/
