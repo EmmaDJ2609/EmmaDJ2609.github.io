@@ -277,4 +277,8 @@ li a{ /*Letters kleur van menu*/
     padding:10px;
  }
 
- 
+ .clearfix{
+    content: "";
+    display:table;
+    clear:both;
+ }
