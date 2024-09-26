@@ -42,6 +42,7 @@ li a{ /*Letters kleur van menu*/
     margin: 2px;
     padding: 5px;
     width: 20%;
+    border-radius: 35px;
 }
 
 .Kleurmodellen{ /*Opmaakt tekst kleurmodellen*/
@@ -53,6 +54,7 @@ li a{ /*Letters kleur van menu*/
     width: 50%;
     font-size: 17px;
     font-family: cursive;
+    border-radius: 35px;
 }
 
 .kleurmodellen2 { /*Opmaak tekst kleurmodellen*/
@@ -64,6 +66,7 @@ li a{ /*Letters kleur van menu*/
     width: 50%;
     font-size: 17px;
     font-family: cursive;
+    border-radius: 35px;
 }
 
 .Kleurtjes { /*Afbeelding kleurmodellen opmaak*/
