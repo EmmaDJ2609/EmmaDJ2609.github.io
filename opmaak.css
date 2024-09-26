@@ -270,12 +270,11 @@ li a{ /*Letters kleur van menu*/
 }
 
 .footer{ /*Ondertitel van website*/
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
     background-color: pink;
     color: white;
     text-align: center;
-    position:static;
+    margin-bottom: 100%;
+    padding:10px;
  }
+
+ 
