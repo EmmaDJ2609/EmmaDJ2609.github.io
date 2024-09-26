@@ -224,7 +224,7 @@ li a{ /*Letters kleur van menu*/
     border-radius: 35px;
 }
 
-.Compressie2{
+.Compressie2{ /*Opmaak tekst compressie*/
     display: block; 
     background-color:  rgb(231, 217, 243);
     margin-left:1px;
@@ -236,7 +236,7 @@ li a{ /*Letters kleur van menu*/
     border-radius: 35px;
 }
 
-.Compressie3{
+.Compressie3{ /*Opmaak tekst compressie*/
     display: block; 
     background-color:  rgb(231, 217, 243);
     margin-left:1px;
@@ -248,7 +248,7 @@ li a{ /*Letters kleur van menu*/
     border-radius: 35px;
 }
 
-.Compressie4 {
+.Compressie4 { /*Opmaak tekst compressie*/
     display: block; 
     background-color:  rgb(231, 217, 243);
     margin-left:1px;
@@ -260,7 +260,7 @@ li a{ /*Letters kleur van menu*/
     border-radius: 35px;
 }
 
-.Plaatjecompressie{
+.Plaatjecompressie{ /*Opmaak afbeelding compressie*/
     border-color:  rgb(231, 217, 243);
     border-style: solid;
     border-width: 5px;
@@ -269,7 +269,7 @@ li a{ /*Letters kleur van menu*/
     margin-right: 10px;
 }
 
-.footer{
+.footer{ /*Ondertitel van website*/
     position: fixed;
     left: 0;
     bottom: 0;
