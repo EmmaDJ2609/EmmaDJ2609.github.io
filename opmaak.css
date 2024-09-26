@@ -42,7 +42,7 @@ li a{ /*Letters kleur van menu*/
     margin: 2px;
     padding: 5px;
     width: 20%;
-    border-radius: 40px;
+    border-radius: 25px;
 }
 
 .Kleurmodellen{ /*Opmaakt tekst kleurmodellen*/
@@ -54,7 +54,7 @@ li a{ /*Letters kleur van menu*/
     width: 50%;
     font-size: 17px;
     font-family: cursive;
-    border-radius: 40px;
+    border-radius: 25px;
 }
 
 .kleurmodellen2 { /*Opmaak tekst kleurmodellen*/
@@ -66,7 +66,7 @@ li a{ /*Letters kleur van menu*/
     width: 50%;
     font-size: 17px;
     font-family: cursive;
-    border-radius: 40px;
+    border-radius: 25px;
 }
 
 .Kleurtjes { /*Afbeelding kleurmodellen opmaak*/
@@ -90,7 +90,7 @@ li a{ /*Letters kleur van menu*/
     width: 50%;
     font-size: 17px;
     font-family: cursive;
-    border-radius: 40px;
+    border-radius: 25px;
 }
 
 .Binairstelsel2{ /*Opmaakt Binairstelsel tekst*/   
@@ -102,7 +102,7 @@ li a{ /*Letters kleur van menu*/
     width: 50%;
     font-size: 17px;
     font-family: cursive;
-    border-radius: 40px;
+    border-radius: 25px;
 }
 
 .Binairstelsel3{ /*Opmaakt Binairstelsel tekst*/
@@ -114,7 +114,7 @@ li a{ /*Letters kleur van menu*/
     width: 50%;
     font-size: 17px;
     font-family: cursive;
-    border-radius: 40px;
+    border-radius: 25px;
 }
 
 .Binairstelsel4{ /*Opmaakt Binairstelsel tekst*/
@@ -126,7 +126,7 @@ li a{ /*Letters kleur van menu*/
     width: 50%;
     font-size: 17px;
     font-family: cursive;
-    border-radius: 40px;
+    border-radius: 25px;
 }
 
 .Binairstelsel5{ /*Opmaakt Binairstelsel tekst*/   
@@ -138,7 +138,7 @@ li a{ /*Letters kleur van menu*/
     width: 50%;
     font-size: 17px;
     font-family: cursive;
-    border-radius: 40px;
+    border-radius: 25px;
 }
 
 .Afbeeldingbinairstelsel { /*Afbeelding binairstelsel opmaak*/
@@ -167,7 +167,7 @@ li a{ /*Letters kleur van menu*/
     width: 50%;
     font-size: 17px;
     font-family: cursive;
-    border-radius: 35px;
+    border-radius: 25px;
 }
 
 .Bitmapjes{ /*Opmaakt tekst Bitmap en Vector afbeeldingen*/
@@ -179,7 +179,7 @@ li a{ /*Letters kleur van menu*/
     width: 50%;
     font-size: 17px;
     font-family: cursive;
-    border-radius: 40px;
+    border-radius: 25px;
 }
 
 .Bitmapjes2{ /*Opmaakt tekst Bitmap en Vector afbeeldingen*/
@@ -191,7 +191,7 @@ li a{ /*Letters kleur van menu*/
     width: 50%;
     font-size: 17px;
     font-family: cursive;
-    border-radius: 40px;
+    border-radius: 25px;
 }
 
 .Bitmapjes3{ /*Opmaakt Binairstelsel tekst*/
@@ -203,7 +203,7 @@ li a{ /*Letters kleur van menu*/
     width: 50%;
     font-size: 17px;
     font-family: cursive;
-    border-radius: 40px;
+    border-radius: 25px;
 }
 
 .Vectorafbeelding{ /*Opmaak afbeelding vectorafbeeldingen*/
@@ -224,7 +224,7 @@ li a{ /*Letters kleur van menu*/
     width: 50%;
     font-size: 17px;
     font-family: cursive;
-    border-radius: 50px;
+    border-radius: 25px;
 }
 
 .Compressie2{ /*Opmaak tekst compressie*/
@@ -236,7 +236,7 @@ li a{ /*Letters kleur van menu*/
     width: 50%;
     font-size: 17px;
     font-family: cursive;
-    border-radius: 40px;
+    border-radius: 25px;
 }
 
 .Compressie3{ /*Opmaak tekst compressie*/
@@ -248,7 +248,7 @@ li a{ /*Letters kleur van menu*/
     width: 50%;
     font-size: 17px;
     font-family: cursive;
-    border-radius: 50px;
+    border-radius: 25px;
 }
 
 .Compressie4 { /*Opmaak tekst compressie*/
@@ -291,4 +291,5 @@ li a{ /*Letters kleur van menu*/
   background-color: rgb(231, 217, 243);
   color:white;
   padding: 14px 25px;
+  border-radius: 35px;
 }
