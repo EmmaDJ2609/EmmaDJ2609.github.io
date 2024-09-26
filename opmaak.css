@@ -278,6 +278,9 @@ li a{ /*Letters kleur van menu*/
     text-align: center;
     margin-bottom: 100%;
     padding:10px;
+    bottom: 0;
+    position: fixed;
+    
  }
 
  .clearfix{ /*Positie van footer*/
