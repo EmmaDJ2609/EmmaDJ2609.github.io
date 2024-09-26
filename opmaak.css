@@ -46,7 +46,7 @@ li a{ /*Letters kleur van menu*/
 
 .Kleurmodellen{ /*Opmaakt tekst kleurmodellen*/
     display: block;
-    background-color:rgba(255, 196, 248);
+    background-color: rgb(231, 217, 243);
     margin-left:1px;
     margin-right:50px;
     padding: 5px;
@@ -57,7 +57,7 @@ li a{ /*Letters kleur van menu*/
 
 .kleurmodellen2 { /*Opmaak tekst kleurmodellen*/
     display: block;
-    background-color: rgb(255, 196, 248);
+    background-color:  rgb(231, 217, 243);
     margin-left: 1px;
     margin-right: 50px;
     padding: 5px;
@@ -67,7 +67,7 @@ li a{ /*Letters kleur van menu*/
 }
 
 .Kleurtjes { /*Afbeelding kleurmodellen opmaak*/
-    border-color:rgb(254, 203, 255);
+    border-color: rgb(231, 217, 243);
     border-style: solid;
     border-width: 5px;
 }
@@ -80,7 +80,7 @@ li a{ /*Letters kleur van menu*/
 
 .Binairstelsel1{ /*Opmaak binairstelsel*/
     display: block;
-    background-color: rgb(190, 255, 237);
+    background-color:  rgb(231, 217, 243);
     margin-left:1px;
     margin-right:50px;
     padding: 5px;
@@ -92,7 +92,7 @@ li a{ /*Letters kleur van menu*/
 
 .Binairstelsel2{ /*Opmaakt Binairstelsel tekst*/   
     display: block;
-    background-color: rgb(190, 255, 237);
+    background-color:  rgb(231, 217, 243);
     margin-left:1px;
     margin-right:50px;
     padding: 5px;
@@ -104,7 +104,7 @@ li a{ /*Letters kleur van menu*/
 
 .Binairstelsel3{ /*Opmaakt Binairstelsel tekst*/
     display: block;
-    background-color: rgb(190, 255, 237);
+    background-color:  rgb(231, 217, 243);
     margin-left: 1px;
     margin-right:50px;
     padding: 5px;
@@ -116,7 +116,7 @@ li a{ /*Letters kleur van menu*/
 
 .Binairstelsel4{ /*Opmaakt Binairstelsel tekst*/
     display: block;
-    background-color: rgb(190, 255, 237);
+    background-color:  rgb(231, 217, 243);
     margin-left: 1px;
     margin-right:50px;
     padding: 5px;
@@ -128,7 +128,7 @@ li a{ /*Letters kleur van menu*/
 
 .Binairstelsel5{ /*Opmaakt Binairstelsel tekst*/   
     display: block;
-    background-color: rgb(190, 255, 237);
+    background-color: rgb(231, 217, 243);
     margin-left:1px;
     margin-right:50px;
     padding: 5px;
@@ -140,14 +140,14 @@ li a{ /*Letters kleur van menu*/
 
 .Afbeeldingbinairstelsel { /*Afbeelding binairstelsel opmaak*/
     margin-right: 20px;
-    border-color: rgb(254, 203, 255);
+    border-color:  rgb(231, 217, 243);
     border-style: solid;
     border-width: 5px;
 }
 
 
 .Paardje{ /*Afbeelding Home opmaak*/
-    border-color: rgb(254, 203, 255);
+    border-color:  rgb(231, 217, 243);
     border-style: solid;
     border-width: 5px;
     float: right;
@@ -157,7 +157,7 @@ li a{ /*Letters kleur van menu*/
 
 .Home{ /*Opmaakt tekst home pagina*/
     display: block; 
-    background-color: rgb(212, 242, 245);
+    background-color:  rgb(231, 217, 243);
     margin-left:1px;
     margin-right:50px;
     padding: 5px;
@@ -214,7 +214,7 @@ li a{ /*Letters kleur van menu*/
 
 .Compressie{ /*Opmaakt tekst compressie*/
     display: block; 
-    background-color: rgb(216, 174, 249);
+    background-color:  rgb(231, 217, 243);
     margin-left:1px;
     margin-right:50px;
     padding: 5px;
@@ -226,7 +226,7 @@ li a{ /*Letters kleur van menu*/
 
 .Compressie2{
     display: block; 
-    background-color: rgb(216, 174, 249);
+    background-color:  rgb(231, 217, 243);
     margin-left:1px;
     margin-right:50px;
     padding: 5px;
@@ -238,7 +238,7 @@ li a{ /*Letters kleur van menu*/
 
 .Compressie3{
     display: block; 
-    background-color: rgb(216, 174, 249);
+    background-color:  rgb(231, 217, 243);
     margin-left:1px;
     margin-right:50px;
     padding: 5px;
@@ -250,7 +250,7 @@ li a{ /*Letters kleur van menu*/
 
 .Compressie4 {
     display: block; 
-    background-color: rgb(216, 174, 249);
+    background-color:  rgb(231, 217, 243);
     margin-left:1px;
     margin-right:50px;
     padding: 5px;
@@ -261,7 +261,7 @@ li a{ /*Letters kleur van menu*/
 }
 
 .Plaatjecompressie{
-    border-color: rgb(254, 203, 255);
+    border-color:  rgb(231, 217, 243);
     border-style: solid;
     border-width: 5px;
     float: right;
