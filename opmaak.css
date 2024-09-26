@@ -277,8 +277,10 @@ li a{ /*Letters kleur van menu*/
     padding:10px;
  }
 
- .clearfix{
+ .clearfix{ /*Positie van footer*/
     content: "";
     display:table;
     clear:both;
  }
+
+ 
