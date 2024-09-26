@@ -1,4 +1,4 @@
-body { /*Dit is de basis achtergrondkleur van mijn website*/
+body { /*Dit is de basis achtergrond van mijn website*/
     background-image: url("Plaatjes/Glitter.webp");
 }
 
@@ -287,7 +287,7 @@ li a{ /*Letters kleur van menu*/
     clear:both;
  }
 
-.Link{
+.Link{ /*Opmaak van de link bij kleurmodellen*/
   background-color: rgb(231, 217, 243);
   color:white;
   padding: 14px 25px;
